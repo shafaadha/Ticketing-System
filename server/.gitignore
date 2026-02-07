@@ -1,0 +1,22 @@
+# Node.js
+node_modules/
+npm-debug.log
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Prisma generated files
+/src/generated/prisma
+/generated/prisma
+
+/prisma/migrations/
+
+# Frontend
+/frontend/node_modules/
+/frontend/dist/
+
+# Logs
+logs
+*.log
