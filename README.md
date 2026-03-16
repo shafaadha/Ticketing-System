@@ -1,7 +1,4 @@
-# Sociomile Mini System
-
-Versi mini dari Sociomile System (Take-Home Assignment).
-
+# Ticketing System
 **Fokus utama:** Ticket Management, Conversation (Chat), Multi-Tenancy, Authentication & Authorization.
 
 ---
